@@ -1,0 +1,17 @@
+{
+    "name": "ptsans-googlefont",
+    "license": "OFL",
+    "authors": [
+        "ParaType"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/ptsans-bower.git"
+    },
+    "description": "PT Sans font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
